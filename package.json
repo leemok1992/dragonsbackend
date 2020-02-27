@@ -1,0 +1,12 @@
+{
+  "name": "dragonsBackend",
+  "version": "1.0.0",
+  "description": "team webpage",
+  "main": "index.js",
+  "repository": "https://github.com/leemok1992/dragonsbackend",
+  "author": "mok",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
